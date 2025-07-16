@@ -1,0 +1,47 @@
+# FastAPI and ASGI server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Database
+sqlalchemy==2.0.23
+alembic==1.12.1
+aiosqlite==0.21.0
+
+# Geo-spatial support
+geoalchemy2==0.14.2
+shapely==2.0.2
+
+# AI and ML
+openai==1.3.7
+transformers==4.35.2
+torch==2.6.0
+scikit-learn==1.6.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# HTTP client
+httpx==0.25.2
+aiohttp==3.9.1
+
+# Authentication and security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+
+# Environment and configuration
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# CORS
+fastapi-cors==0.0.6
+
+# Validation
+email-validator==2.1.0
+
+# Development
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.11.0
+isort==5.12.0
+flake8==6.1.0 

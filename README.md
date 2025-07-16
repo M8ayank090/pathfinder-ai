@@ -108,12 +108,14 @@ cd backend
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
+<img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/eef7a1ba-29f4-4e26-8f42-f554619a42a0" />
+
 2. **Start Frontend** (Terminal 2)
 ```bash
 cd frontend
 npm run dev
 ```
-
+<img width="1918" height="968" alt="image" src="https://github.com/user-attachments/assets/380d5893-3ec8-41f4-817b-b34419898e18" />
 3. **Access the Application**
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8000
@@ -280,12 +282,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **FastAPI**: Modern Python web framework
 - **Next.js**: React framework for production
 
-## 📞 Support
-
-- **Documentation**: [Wiki](link-to-wiki)
-- **Issues**: [GitHub Issues](link-to-issues)
-- **Discussions**: [GitHub Discussions](link-to-discussions)
-
----
 
 **Built with ❤️ for smarter navigation** 

@@ -129,13 +129,14 @@ npm run dev
 - **Environmental Overlay**: AQI, weather, and safety indicators
 - **Interactive Markers**: Click for detailed information
 - **Route Comparison**: Compare different routes side-by-side
-
+  
 ### 🤖 AI Assistant
 - **Natural Language Processing**: Understand complex queries
 - **Context-Aware Responses**: Personalized recommendations
 - **Quick Suggestions**: Pre-built queries for common needs
 - **Voice Input**: Speech-to-text integration (ready for implementation)
 - **Conversation History**: Persistent chat sessions
+<img width="471" height="844" alt="image" src="https://github.com/user-attachments/assets/6bb53860-cc81-434b-adf0-ed7829cb27af" />
 
 ### 🎯 Goal Engine
 - **Goal Categories**: Fitness, Wellness, Productivity, Social, Learning, Mindfulness
@@ -150,6 +151,7 @@ npm run dev
 - **Achievement Tracking**: Unlocked badges and milestones
 - **AI Insights**: Personalized recommendations and trends
 - **Favorite Areas**: Most visited and preferred locations
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/abfb688f-a7bb-46a1-b5a8-5182150fdf7e" />
 
 ### 🔔 Smart Notifications
 - **Route Completion**: Celebrate achievements
